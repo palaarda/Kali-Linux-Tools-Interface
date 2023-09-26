@@ -4,9 +4,9 @@
 <!-- LOGO -->
 <p align="center">
   <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Tarayıcı üzerinden bilgi güvenliği araçlarını kullanmak için grafiksel bir arayüz.</h3>
+  <h3 align="center">Kali Linux Tools Interface</h3>
   
-  <p align="center">A graphical interface to use information security tools by the browser.
+  <p align="center">Tarayıcı üzerinden bilgi güvenliği araçlarını kullanmak için grafiksel bir arayüz..
     <br />
       <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">
         <strong>
