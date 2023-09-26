@@ -50,9 +50,9 @@ Kali Linux Araçları Arayüzü, bilgi güvenliği araçlarını tarayıcı üze
 
 ### Installation
 
-1.İçeriği web sunucunuzun klasörüne çıkartın.<br />
-2.MySQL'de kali adında bir veritabanı oluşturun ve assets/database.sql dosyasını içe aktarın.<br />
-3.assets/includes/config.php dosyasını düzenleyin ve kendi ayarlarınızı yapın.<br />
+1.İçeriği web sunucunuzun klasörüne çıkartın. <br />
+2.MySQL'de kali adında bir veritabanı oluşturun ve assets/database.sql dosyasını içe aktarın. <br />
+3.assets/includes/config.php dosyasını düzenleyin ve kendi ayarlarınızı yapın. <br />
 Keyfini çıkarın!
 
 ## Ekran Görüntüleri
