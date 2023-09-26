@@ -4,85 +4,87 @@
 <!-- LOGO -->
 <p align="center">
   <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Kali Linux Tools Interface</h3>
+  <h3 align="center">Tarayıcı üzerinden bilgi güvenliği araçlarını kullanmak için grafiksel bir arayüz.</h3>
   
   <p align="center">A graphical interface to use information security tools by the browser.
     <br />
       <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">
         <strong>
-          Explore the docs »
+          Dokümantasyonu Keşfet »
         </strong><br>
-          (Available only in Portuguese 🇧🇷)
+          (Yalnızca Portekizce 🇧🇷 mevcut)
         </a>
+    <small>Yakında Türkçe hali gelecek.</small>
       <br />
       <br />
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Feedback</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Geribildirim</a>
       ·
-      <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Report Bug</a>
+      <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Hata Bildir</a>
       ·
-      <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Request Feature</a>
+      <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Özellik İste</a>
   </p>
 </p>
 
 <p>
-  <h3>⚠️ ALERT 🚧 </h3>
+  <h3>⚠️ DIKKAT 🚧 </h3>
 As I am involved in other projects, I am no longer supporting this project.
 However, the code remains open to anyone who wants to download, test and modify. Thanks to everyone for your support! Enjoy 😉
 </p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Başlarken
 
-Kali Linux Tools Interface is a graphical interface to use information security tools by the browser. The project uses the Kali Linux tools as a reference because it is the distribution that has the largest package of native tools.
+Kali Linux Araçları Arayüzü, bilgi güvenliği araçlarını tarayıcı üzerinden kullanmak için bir grafik arayüzdür. Proje, en fazla yerel araca sahip olan dağıtım olduğu için Kali Linux araçlarını referans alır.
 
 
-### Prerequisites
 
-- A Debian-based distribution (preferably [Kali Linux](https://www.kali.org/))
-- The information security tools installed
-- Apache / Nginx service running
-- SSH Service running
+### Önkoşullar
+
+- Bir Debian tabanlı dağıtım (tercihen Kali Linux) [Kali Linux](https://www.kali.org/))
+- Bilgi güvenliği araçları kurulu
+- Apache / Nginx hizmeti çalışıyor
+- SSH Hizmeti çalışıyor
 - Shell In A Box (if you want to use the Terminal)
-  - To install <b>Shell In A Box</b>, use the following command: `sudo apt-get install shellinabox`
+  - Terminal kullanmak isterseniz. <b>Shell In A Box</b> (aşağıdaki komutu kullanarak kurabilirsiniz): sudo apt-get install shellinabox `sudo apt-get install shellinabox`
 
 
 ### Installation
 
-1. Extract the contents to the folder of your web server.
-2. Create a database called `kali` in MySQL and import the file `assets/database.sql`.
-3. Edit the file `assets/includes/config.php` and set yours settings.
-4. Enjoy!
+1.İçeriği web sunucunuzun klasörüne çıkartın.
+2.MySQL'de kali adında bir veritabanı oluşturun ve assets/database.sql dosyasını içe aktarın.
+3.assets/includes/config.php dosyasını düzenleyin ve kendi ayarlarınızı yapın.
+Keyfini çıkarın!
 
-## Screenshots
+## Ekran Görüntüleri
 
 ### Dashboard
 <img src="https://cdn-images-1.medium.com/max/800/1*hdhVWcYHeTAJDNy-Rc6oCg.png">
 
-### Tools list
+### Araç Listesi
 <img src="https://cdn-images-1.medium.com/max/800/1*-GHokqJ0OJMjHGlVuZvEfg.png">
 
-### Choose and use!
+### Seç ve Kullan!
 <img src="https://cdn-images-1.medium.com/max/800/1*aE4IUekZ9SRg8HUCoFXAUA.png">
 
-### More screenshots:
+### Daha Fazla Ekran Görüntüsü:
 Check the <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">documentation</a> for more screenshots!
 
-## Built With
+## Kullanılan Teknolojiler
 * [Argon Dashboard](https://demos.creative-tim.com/argon-dashboard/)
 * [Bootstrap 4](https://getbootstrap.com)
 * [PHP 7](https://php.net)
 * [PHP Secure Communications Library](https://github.com/phpseclib/phpseclib)
 * [JQuery](https://jquery.com)
 
-## Contributing
-Contributions are always welcome! 
-If you would like to contribute to the project, please use the Google Forms to send me your <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Feedback</a>.
+## Katkılar
+Katkılar her zaman hoş karşılanır!
+Projeye katkıda bulunmak isterseniz, lütfen Google Forms'u kullanarak bana gönderin. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Geri Bildirim</a>.
 
-## License
-Distributed under the MIT License. See LICENSE for more information.
+## Lisans
+MIT Lisansı kapsamında dağıtılmıştır. Daha fazla bilgi için LİSANS dosyasına bakınız.
 
 <!-- CONTACT -->
-## Contact
+## Iletişim
 
 Lucas Fraga - ti.lucasfraga@gmail.com
 
