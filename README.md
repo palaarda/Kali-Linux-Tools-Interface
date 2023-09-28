@@ -48,7 +48,7 @@ Kali Linux Araçları Arayüzü, bilgi güvenliği araçlarını tarayıcı üze
   - Terminal kullanmak isterseniz. <b>Shell In A Box</b> (aşağıdaki komutu kullanarak kurabilirsiniz): sudo apt-get install shellinabox `sudo apt-get install shellinabox`
 
 
-### Installation
+### Kurulum
 
 1.İçeriği web sunucunuzun klasörüne çıkartın. <br />
 2.MySQL'de kali adında bir veritabanı oluşturun ve assets/database.sql dosyasını içe aktarın. <br />
@@ -57,7 +57,7 @@ Keyfini çıkarın!
 
 ## Ekran Görüntüleri
 
-### Dashboard
+### Yönetim Paneli
 <img src="https://cdn-images-1.medium.com/max/800/1*hdhVWcYHeTAJDNy-Rc6oCg.png">
 
 ### Araç Listesi
@@ -67,7 +67,7 @@ Keyfini çıkarın!
 <img src="https://cdn-images-1.medium.com/max/800/1*aE4IUekZ9SRg8HUCoFXAUA.png">
 
 ### Daha Fazla Ekran Görüntüsü:
-Check the <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">documentation</a> for more screenshots!
+Daha fazla ekran görüntüsü için <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">belgelere</a> bakın!
 
 ## Kullanılan Teknolojiler
 * [Argon Dashboard](https://demos.creative-tim.com/argon-dashboard/)
