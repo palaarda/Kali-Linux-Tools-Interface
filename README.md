@@ -45,7 +45,8 @@ Kali Linux Araçları Arayüzü, bilgi güvenliği araçlarını tarayıcı üze
 - Apache / Nginx hizmeti çalışıyor
 - SSH Hizmeti çalışıyor
 - Shell In A Box (Eğer Terminal kullanmak isterseniz)
-  - Terminal kullanmak isterseniz. <b>Shell In A Box</b> (aşağıdaki komutu kullanarak kurabilirsiniz): sudo apt-get install shellinabox `sudo apt-get install shellinabox`
+  - Terminal kullanmak isterseniz. <b>Shell In A Box</b> (aşağıdaki komutu kullanarak kurabilirsiniz): <br />
+  - sudo apt-get install shellinabox `sudo apt-get install shellinabox`
 
 
 ### Kurulum
